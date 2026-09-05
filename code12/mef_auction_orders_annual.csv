@@ -1,0 +1,12 @@
+year,edition_used,n_months,hedge_funds,asset_managers,banks,official,insurers,pension,corporate_retail,also_in_edition,hedge_funds_other_edition,window_basis
+2015,2016,12,14.8,41.1,28.7,5.2,2.1,0.7,7.4,,,OLD (announcement to day after auction)
+2016,2017,12,16.0,38.2,29.5,7.2,0.9,1.3,6.9,2016,16.0,OLD (announcement to day after auction)
+2017,2018,12,31.0,37.2,21.7,4.2,0.9,0.8,4.2,2017,31.2,NEW (day after announcement to day before settlement)
+2018,2019,12,34.1,34.8,18.7,5.5,1.2,0.7,0.0,2018,34.8,NEW (day after announcement to day before settlement)
+2019,2020,12,40.5,34.4,15.0,3.0,1.4,0.4,5.2,2019,40.6,NEW (day after announcement to day before settlement)
+2020,2021,12,33.8,34.6,23.8,3.7,0.8,0.5,2.9,2020,33.8,NEW (day after announcement to day before settlement)
+2021,2022,12,37.9,38.9,18.6,1.1,0.9,0.5,2.1,2021,38.0,NEW (day after announcement to day before settlement)
+2022,2023,12,33.4,42.6,21.3,0.7,0.3,0.2,1.6,2022,33.4,NEW (day after announcement to day before settlement)
+2023,2024,12,37.3,38.5,22.8,0.1,0.3,0.3,0.6,2023,37.1,NEW (day after announcement to day before settlement)
+2024,2025,12,40.8,30.0,24.8,0.5,0.8,0.7,2.3,2024,40.8,NEW (day after announcement to day before settlement)
+2025,2025,12,44.4,34.0,15.6,3.6,0.2,0.5,1.8,,,NEW (day after announcement to day before settlement)

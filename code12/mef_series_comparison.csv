@@ -1,0 +1,12 @@
+year,auction_window_hf_pct,secondary_trading_hf_pct,ratio,window_basis,trading_source
+2015,14.8,,,OLD (announcement to day after auction),
+2016,16.0,,,OLD (announcement to day after auction),Rapporto 2016 prose
+2017,31.0,17.4,1.78,NEW (day after announcement to day before settlement),Rapporto 2018 prose ("contro il 17.4% del 2017")
+2018,34.1,19.0,1.79,NEW,Rapporto 2018 prose ("oltre il 19%")
+2019,40.5,,,NEW,not stated in these terms
+2020,33.8,16.0,2.11,NEW,Rapporto 2021 prose ("rispetto al 16% del 2020")
+2021,37.9,18.0,2.11,NEW,Rapporto 2021 prose ("salita al 18%")
+2022,33.4,27.0,1.24,NEW,Rapporto 2022 prose ("salito al 27%")
+2023,37.3,30.0,1.24,NEW,Rapporto 2023 prose ("salito al 30%")
+2024,40.8,32.5,1.26,NEW,Rapporto 2024 prose ("salito al 32.5%")
+2025,44.4,33.3,1.33,NEW,Rapporto 2025 prose ("pari rispettivamente al 33.3%")
