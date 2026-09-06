@@ -1,0 +1,48 @@
+EDITION: 2022 Investments Digest
+SOURCE: https://e.infogram.com/995f520e-d020-4fe5-b711-94b95648fbd2?src=embed (window.infographicData; read via Chrome 2026-09-05)
+CREATED: 2023-11-08T20:49:17.000Z UPDATED: 2024-01-11T21:57:48.000Z
+
+### long id=a594c90b-7d2e-454b-ad54-06267e92c22b checksum=75447.00
+Long Positions | Total Portfolio Assets (US$ Billions) | | Equities (US$ Billions) | | Master Funds (US$ Billions) | | ST Debt Securities (US$ Billions) | | LT Debt Securities (US$ Billions) |
+| 2022 | 2021 | 2022 | 2021 | 2022 | 2021 | 2022 | 2021 | 2022 | 2021
+United States | 2,912 | 3,132 | 1,270 | 1,654 | 402 | 415 | 144 | 163 | 1,096 | 900
+Cayman Islands | 1,968 | 2,133 | 380 | 436 | 1,553 | 1,657 | 1 | 2 | 34 | 39
+China | 332 | 402 | 302 | 355 | 2 | 3 | 5 | 6 | 23 | 38
+Other Developed Countries | 274 | 270 | 125 | 146 | 49 | 29 | 28 | 23 | 72 | 72
+United Kingdom | 195 | 211 | 122 | 134 | 4 | 5 | 18 | 13 | 51 | 59
+Japan | 185 | 194 | 74 | 89 | 28 | 3 | 50 | 29 | 32 | 73
+Other Offshore Centres | 151 | 158 | 111 | 120 | 24 | 25 | 2 | 2 | 15 | 11
+France | 106 | 89 | 28 | 21 | 0 | 0 | 38 | 29 | 40 | 39
+Ireland | 87 | 86 | 42 | 43 | 26 | 24 | 1 | 1 | 18 | 18
+Developing Asia and the Pacific | 81 | 87 | 75 | 78 | 1 | 0 | 0 | 0 | 5 | 8
+Germany | 76 | 75 | 27 | 32 | 0 | 0 | 33 | 26 | 16 | 16
+Canada | 74 | 98 | 57 | 66 | 1 | 1 | 2 | 7 | 13 | 24
+Netherlands | 55 | 52 | 36 | 32 | 3 | 3 | 1 | 0 | 15 | 18
+Developing Africa and the Middle East | 49 | 58 | 41 | 47 | 2 | 1 | 2 | 1 | 5 | 9
+Hong Kong | 42 | 45 | 38 | 39 | 0 | 1 | 1 | 1 | 3 | 5
+Developing Latin America and the Caribbean | 39 | 61 | 24 | 31 | 1 | 0 | 1 | 1 | 13 | 29
+Developing Europe | 12 | 19 | 10 | 12 | 0 | 0 | 0 | 1 | 2 | 5
+Total | 6,638 | 7,170 | 2,762 | 3,335 | 2,096 | 2,167 | 327 | 305 | 1,453 | 1,363
+
+### short id=d40dbfae-03ec-43be-b255-f3d221eb38a4 checksum=21076.00
+Short Positions | Total Portfolio Assets (US$ Billions) | | Equities (US$ Billions) | | ST Debt Securities (US$ Billions) | | LT Debt Securities (US$ Billions) |
+| 2022 | 2021 | 2022 | 2021 | 2022 | 2021 | 2022 | 2021
+Germany | -174 | -186 | -1 | -0 | -9 | -10 | -164 | -176
+United States | -137 | -194 | -33 | -38 | -88 | -79 | -16 | -77
+Other Developed Countries | -76 | -58 | -2 | -2 | -25 | -21 | -49 | -35
+France | -69 | -94 | 0 | 0 | -13 | -13 | -55 | -81
+United Kingdom | -39 | -92 | -2 | -1 | -14 | -26 | -23 | -65
+Japan | -35 | -7 | 0 | -1 | -6 | -3 | -29 | -3
+Canada | -18 | -29 | -4 | -4 | -6 | -5 | -9 | -20
+Netherlands | -4 | -3 | 0 | 0 | -3 | -2 | -1 | -1
+Cayman Islands | -1 | -2 | 0 | -1 | -1 | -1 | 0 | -0
+China | -1 | -2 | -1 | -2 | 0 | 0 | 0 | -0
+Hong Kong | -1 | -2 | -1 | -1 | 0 | -1 | 0 | -0
+Developing Africa and the Middle East | 0 | -1 | 0 | -1 | 0 | 0 | 0 | -0
+Other Offshore Centres | -0 | -1 | 0 | -1 | 0 | 0 | 0 | -0
+Total | -555 | -671 | -44 | -52 | -165 | -161 | -346 | -458
+
+### notes
+- "Based on the 24,797 FAR submissions, investment managers:"
+- "These four jurisdictions account for the management of approximately 64% of the total number of funds and 73% of ending NAV based on the 2022 FAR submissions."
+- "* Previously reported as Other assets less liabilities"

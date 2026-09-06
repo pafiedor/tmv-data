@@ -1,0 +1,255 @@
+CIMA Investments Statistical Digest — PDF editions 2015–2019, "Portfolio Investments by Jurisdiction" tables.
+Transcribed 2026-09-05 from pdf.js text layers read in Chrome (source PDFs on cima.ky/upimages/publicationdoc/). Values verbatim, US$ billions.
+Verification: build script checks each row (Total = Equities + Master + ST + LT) and each column (sum of rows = Total row) within rounding.
+
+### 2015 long | file=InvestmentsStatisti_1499166938.pdf page=10 figure=9 | cols: Total Portfolio Assets, Equities, Master Funds, ST Debt Securities, LT Debt Securities | years: 2015
+United States | 1,117 | 356 | 120 | 90 | 551
+Cayman Islands | 1,011 | 82 | 917 | 2 | 10
+United Kingdom | 68 | 17 | 1 | 4 | 46
+Japan | 59 | 27 | 0 | 19 | 13
+Germany | 46 | 6 | 0 | 7 | 33
+France | 42 | 6 | 0 | 1 | 35
+China | 32 | 27 | 0 | 0 | 5
+Canada | 22 | 7 | 0 | 2 | 13
+Curacao | 20 | 0 | 20 | 0 | 0
+Denmark | 18 | 3 | 0 | 0 | 15
+Hong Kong | 15 | 10 | 0 | 1 | 4
+Ireland | 15 | 10 | 2 | 0 | 3
+Sweden | 15 | 4 | 0 | 0 | 11
+Netherlands | 14 | 4 | 0 | 0 | 10
+British Virgin Islands | 11 | 6 | 5 | 0 | 0
+Other Developed Countries | 60 | 17 | 4 | 7 | 32
+Other Offshore Centres | 9 | 5 | 1 | 0 | 3
+Developing Europe | 7 | 3 | 0 | 0 | 4
+Developing Latin America and the Caribbean | 23 | 3 | 0 | 1 | 19
+Developing Africa and the Middle East | 11 | 5 | 0 | 0 | 6
+Developing Asia and the Pacific | 20 | 8 | 0 | 0 | 12
+Total | 2,635 | 606 | 1,070 | 134 | 825
+
+### 2015 short | file=InvestmentsStatisti_1499166938.pdf page=11 figure=9B | cols: Total Short, Equities Short, ST Debt Short, LT Debt Short | years: 2015
+United States | -26.83 | -11.72 | -13.95 | -1.16
+Cayman Islands | -0.04 | -0.02 | -0.02 | 0.00
+United Kingdom | -7.27 | -0.03 | -4.59 | -2.65
+Japan | -2.39 | -0.87 | -0.07 | -1.45
+Germany | -29.85 | -1.59 | -2.01 | -26.25
+France | -3.65 | -0.03 | -1.34 | -2.28
+China | -0.51 | -0.51 | 0.00 | 0.00
+Canada | -3.82 | -1.45 | -1.51 | -0.86
+Curacao | -0.01 | -0.01 | 0.00 | 0.00
+Denmark | -0.26 | -0.11 | -0.15 | 0.00
+Hong Kong | -0.27 | -0.27 | 0.00 | 0.00
+Ireland | -0.05 | -0.04 | -0.01 | 0.00
+Sweden | -0.42 | -0.06 | -0.31 | -0.05
+Netherlands | -0.75 | -0.16 | -0.59 | 0.00
+British Virgin Islands | 0.00 | 0.00 | 0.00 | 0.00
+Other Developed Countries | -1.52 | -0.63 | -0.10 | -0.79
+Other Offshore Centres | -0.77 | -0.76 | -0.01 | 0.00
+Developing Europe | -0.01 | 0.00 | 0.00 | -0.01
+Developing Latin America and the Caribbean | -0.51 | -0.10 | -0.41 | 0.00
+Developing Africa and the Middle East | -0.03 | -0.02 | -0.01 | 0.00
+Developing Asia and the Pacific | -0.60 | -0.57 | -0.02 | -0.01
+Total | -79.56 | -18.95 | -25.10 | -35.51
+
+### 2016 long | file=InvestmentsStatisti_1515159474.pdf page=10 figure=9 | cols: Total, Equities, Master, ST, LT (each 2016, 2015) | years: 2016,2015
+United States | 1,168 | 1,117 | 333 | 356 | 111 | 120 | 64 | 90 | 660 | 551
+Cayman Islands | 1,060 | 1,011 | 78 | 82 | 970 | 917 | 0 | 2 | 12 | 10
+United Kingdom | 78 | 68 | 17 | 17 | 1 | 1 | 24 | 4 | 36 | 46
+Japan | 69 | 59 | 34 | 27 | 1 | 0 | 11 | 19 | 23 | 13
+Germany | 52 | 46 | 7 | 6 | 0 | 0 | 26 | 7 | 19 | 33
+British Virgin Islands | 41 | 11 | 5 | 6 | 35 | 5 | 0 | 0 | 1 | 0
+France | 36 | 42 | 5 | 6 | 0 | 0 | 14 | 1 | 17 | 35
+China | 30 | 32 | 23 | 27 | 0 | 0 | 0 | 0 | 7 | 5
+Canada | 31 | 22 | 8 | 7 | 0 | 0 | 5 | 2 | 18 | 13
+Curacao | 18 | 20 | 0 | 0 | 18 | 20 | 0 | 0 | 0 | 0
+Ireland | 18 | 15 | 10 | 10 | 6 | 2 | 0 | 0 | 2 | 3
+Netherlands | 18 | 14 | 8 | 4 | 0 | 0 | 1 | 0 | 9 | 10
+Hong Kong | 17 | 15 | 12 | 10 | 0 | 0 | 0 | 1 | 5 | 4
+Denmark | 6 | 18 | 3 | 3 | 0 | 0 | 0 | 0 | 3 | 15
+Sweden | 7 | 15 | 2 | 4 | 0 | 0 | 0 | 0 | 5 | 11
+Other Developed Countries | 64 | 60 | 19 | 17 | 7 | 4 | 2 | 7 | 36 | 32
+Developing Latin America and the Caribbean | 21 | 23 | 3 | 3 | 0 | 0 | 1 | 1 | 17 | 19
+Developing Asia and the Pacific | 19 | 20 | 11 | 8 | 0 | 0 | 0 | 0 | 8 | 12
+Other Offshore Centres | 15 | 9 | 9 | 5 | 1 | 1 | 0 | 0 | 5 | 3
+Developing Europe | 8 | 7 | 4 | 3 | 0 | 0 | 0 | 0 | 4 | 4
+Developing Africa and the Middle East | 3 | 11 | 3 | 5 | 0 | 0 | 0 | 0 | 0 | 6
+Total | 2,779 | 2,635 | 594 | 606 | 1,150 | 1,070 | 148 | 134 | 887 | 825
+
+### 2016 short | file=InvestmentsStatisti_1515159474.pdf page=11 figure=9B | cols: Total Short, Equities Short, ST Short, LT Short (each 2016, 2015) | years: 2016,2015
+Germany | -116.41 | -29.85 | -0.63 | -1.59 | -12.6 | -2.01 | -103.18 | -26.25
+United States | -113.99 | -26.83 | -17.60 | -11.72 | -53.05 | -13.95 | -43.34 | -1.16
+United Kingdom | -49.20 | -7.27 | -0.48 | -0.03 | -12.28 | -4.59 | -36.44 | -2.65
+France | -45.22 | -3.65 | -0.12 | -0.03 | -7.28 | -1.34 | -37.82 | -2.28
+Japan | -17.23 | -2.39 | -1.98 | -0.87 | -0.56 | -0.07 | -14.69 | -1.45
+Canada | -8.11 | -3.82 | -1.55 | -1.45 | -1.61 | -1.51 | -4.95 | -0.86
+Netherlands | -5.47 | -0.75 | -0.29 | -0.16 | -3.25 | -0.59 | -1.93 | 0.00
+China | -4.64 | -0.51 | -4.56 | -0.51 | -0.03 | 0.00 | -0.05 | 0.00
+Curacao | -0.06 | -0.01 | -0.06 | -0.01 | 0.00 | 0.00 | 0.00 | 0.00
+Denmark | -0.62 | -0.26 | -0.07 | -0.11 | -0.54 | -0.15 | -0.01 | 0.00
+Hong Kong | -0.17 | -0.27 | -0.16 | -0.27 | 0.00 | 0.00 | -0.01 | 0.00
+Ireland | -0.26 | -0.05 | -0.22 | -0.04 | 0.00 | -0.01 | -0.04 | 0.00
+Sweden | -0.29 | -0.42 | -0.29 | -0.06 | 0.00 | -0.31 | 0.00 | -0.05
+Cayman Islands | -0.11 | -0.04 | -0.09 | -0.02 | 0.00 | -0.02 | -0.02 | 0.00
+British Virgin Islands | -0.02 | 0.00 | 0.00 | 0.00 | -0.02 | 0.00 | 0.00 | 0.00
+Other Developed Countries | -16.53 | -1.52 | 0.00 | -0.63 | -16.53 | -0.10 | 0.00 | -0.79
+Developing Latin America and the Caribbean | -1.05 | -0.51 | -0.39 | -0.10 | -0.19 | -0.41 | -0.47 | 0.00
+Other Offshore Centres | -0.20 | -0.77 | -0.20 | -0.76 | 0.00 | -0.01 | 0.00 | 0.00
+Developing Europe | -0.14 | -0.01 | -0.11 | 0.00 | -0.03 | 0.00 | 0.00 | -0.01
+Developing Africa and the Middle East | -0.14 | -0.03 | -0.10 | -0.02 | -0.02 | -0.01 | -0.02 | 0.00
+Developing Asia and the Pacific | -0.14 | -0.60 | -0.10 | -0.57 | -0.01 | -0.02 | -0.03 | -0.01
+Total | -380.00 | -79.56 | -29.00 | -18.93 | -108.00 | -25.11 | -243.00 | -35.52
+
+### 2017 long | file=InvestmentsStatisti_1546272735.pdf page=10 figure=9 | cols: Total, Equities, Master, ST, LT (each 2017, 2016) | years: 2017,2016
+United States | 1,312 | 1,168 | 473 | 333 | 126 | 111 | 107 | 64 | 606 | 660
+Cayman Islands | 1,180 | 1,060 | 101 | 78 | 1,068 | 970 | 0 | 0 | 11 | 12
+United Kingdom | 71 | 78 | 18 | 17 | 0 | 1 | 21 | 24 | 32 | 36
+Japan | 60 | 69 | 44 | 34 | 1 | 1 | 7 | 11 | 8 | 23
+China | 53 | 30 | 42 | 23 | 0 | 0 | 2 | 0 | 9 | 7
+British Virgin Islands | 43 | 41 | 5 | 5 | 36 | 35 | 0 | 0 | 2 | 1
+France | 40 | 36 | 8 | 5 | 0 | 0 | 15 | 14 | 17 | 17
+Netherlands | 29 | 18 | 8 | 8 | 0 | 0 | 8 | 1 | 13 | 9
+Hong Kong | 25 | 17 | 19 | 12 | 0 | 0 | 1 | 0 | 5 | 5
+Ireland | 21 | 18 | 12 | 10 | 7 | 6 | 0 | 0 | 2 | 2
+Germany | 20 | 52 | 9 | 7 | 0 | 0 | 3 | 26 | 8 | 19
+Canada | 16 | 31 | 6 | 8 | 0 | 0 | 2 | 5 | 8 | 18
+Curacao | 16 | 18 | 0 | 0 | 16 | 18 | 0 | 0 | 0 | 0
+Denmark | 4 | 6 | 2 | 3 | 0 | 0 | 0 | 0 | 2 | 3
+Sweden | 1 | 7 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 5
+Other Developed Countries | 86 | 64 | 24 | 19 | 8 | 7 | 11 | 2 | 43 | 36
+Developing Asia and the Pacific | 25 | 19 | 17 | 11 | 0 | 0 | 1 | 0 | 7 | 8
+Other Offshore Centres | 21 | 15 | 11 | 9 | 5 | 1 | 1 | 0 | 4 | 5
+Developing Latin America and the Caribbean | 20 | 21 | 7 | 3 | 0 | 0 | 1 | 1 | 12 | 17
+Developing Europe | 9 | 8 | 4 | 4 | 0 | 0 | 0 | 0 | 5 | 4
+Developing Africa and the Middle East | 9 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 6 | 0
+Total | 3,061 | 2,779 | 813 | 594 | 1,267 | 1,150 | 180 | 148 | 801 | 887
+
+### 2017 short | file=InvestmentsStatisti_1546272735.pdf page=11 figure=9(b) | cols: Total Short, Equities Short, ST Short, LT Short (each 2017, 2016) | years: 2017,2016
+Germany | -105 | -117 | -1 | -1 | -3 | -13 | -101 | -103
+United States | -67 | -114 | -13 | -18 | -48 | -53 | -6 | -43
+France | -51 | -45 | -1 | 0 | -5 | -7 | -45 | -38
+United Kingdom | -37 | -48 | 0 | 0 | -5 | -12 | -32 | -36
+China | -8 | -5 | -8 | -5 | 0 | 0 | 0 | 0
+Netherlands | -6 | -5 | -1 | 0 | -1 | -3 | -4 | -2
+Canada | -6 | -9 | -1 | -2 | -2 | -2 | -3 | -5
+Japan | -5 | -18 | -2 | -2 | -2 | -1 | -1 | -15
+Denmark | -1 | -1 | 0 | 0 | -1 | -1 | 0 | 0
+Sweden | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Hong Kong | -1 | 0 | -1 | 0 | 0 | 0 | 0 | 0
+Cayman Islands | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+British Virgin Islands | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Curacao | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Ireland | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Other Developed Countries | -24 | -16 | -1 | 0 | -8 | -16 | -15 | 0
+Developing Latin America and the Caribbean | -1 | -2 | 0 | -1 | 0 | 0 | -1 | -1
+Developing Africa and the Middle East | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Other Offshore Centres | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Developing Asia and the Pacific | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Developing Europe | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Total | -312 | -380 | -29 | -29 | -75 | -108 | -208 | -243
+
+### 2018 long | file=InvestmentsStatisti_1606474237.pdf page=13 figure=9(a) | cols: Total, Equities, Master, ST, LT (each 2018, 2017) | years: 2018,2017
+United States | 1,612 | 1,312 | 375 | 473 | 129 | 126 | 179 | 107 | 928 | 606
+Cayman Islands | 1,189 | 1,180 | 81 | 101 | 1,082 | 1,068 | 0 | 0 | 25 | 11
+United Kingdom | 80 | 71 | 20 | 18 | 0 | 0 | 8 | 21 | 52 | 32
+Japan | 87 | 60 | 43 | 44 | 1 | 1 | 23 | 7 | 20 | 8
+China | 58 | 53 | 42 | 42 | 0 | 0 | 2 | 2 | 15 | 9
+British Virgin Islands | 8 | 43 | 4 | 5 | 3 | 36 | 0 | 0 | 2 | 2
+France | 58 | 40 | 8 | 8 | 0 | 0 | 27 | 15 | 23 | 17
+Netherlands | 20 | 29 | 3 | 8 | 0 | 0 | 3 | 8 | 13 | 13
+Hong Kong | 20 | 25 | 15 | 19 | 0 | 0 | 0 | 1 | 5 | 5
+Ireland | 32 | 21 | 11 | 12 | 0 | 7 | 11 | 0 | 20 | 2
+Germany | 42 | 20 | 11 | 9 | 16 | 0 | 1 | 3 | 4 | 8
+Canada | 25 | 16 | 10 | 6 | 0 | 0 | 2 | 2 | 13 | 8
+Curacao | 23 | 16 | 0 | 0 | 23 | 16 | 0 | 0 | 0 | 0
+Denmark | 2 | 4 | 0 | 2 | 0 | 0 | 0 | 0 | 2 | 2
+Sweden | 8 | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 6 | 1
+Other Developed Countries | 110 | 86 | 20 | 24 | 9 | 8 | 20 | 11 | 61 | 43
+Developing Asia and the Pacific | 27 | 25 | 19 | 17 | 0 | 0 | 1 | 1 | 8 | 7
+Other Offshore Centres | 19 | 21 | 12 | 11 | 4 | 5 | 0 | 1 | 2 | 4
+Developing Latin America and the Caribbean | 21 | 20 | 8 | 7 | 0 | 0 | 1 | 1 | 12 | 12
+Developing Europe | 8 | 9 | 3 | 4 | 0 | 0 | 0 | 0 | 5 | 5
+Developing Africa and the Middle East | 9 | 9 | 4 | 3 | 0 | 0 | 0 | 0 | 5 | 6
+Total | 3,458 | 3,070 | 694 | 813 | 1,267 | 1,267 | 279 | 180 | 1,219 | 801
+
+### 2018 short | file=InvestmentsStatisti_1606474237.pdf page=15 figure=10(a) | cols: Total Short, Equities Short, ST Short, LT Short (each 2018, 2017) | years: 2018,2017
+Germany | -150 | -105 | -1 | -1 | -8 | -3 | -141 | -101
+United States | -137 | -67 | -15 | -13 | -91 | -48 | -32 | -6
+France | -57 | -51 | 0 | -1 | -8 | -5 | -50 | -45
+United Kingdom | -31 | -37 | 0 | 0 | -12 | -5 | -19 | -32
+China | -4 | -8 | -4 | -8 | 0 | 0 | 0 | 0
+Netherlands | -2 | -6 | 0 | -1 | -1 | -1 | -1 | -4
+Canada | -6 | -6 | -50 | -1 | -3 | -2 | -2 | -3
+Japan | -6 | -5 | -3 | -2 | -1 | -2 | -2 | -1
+Denmark | 0 | -1 | 0 | 0 | 0 | -1 | 0 | 0
+Sweden | -1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Hong Kong | -1 | -1 | -1 | -1 | 0 | 0 | 0 | 0
+Cayman Islands | -1 | 0 | -1 | 0 | 0 | 0 | 0 | 0
+British Virgin Islands | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Curacao | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Ireland | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Other Developed Countries | -58 | -24 | -1 | -1 | -14 | -8 | -42 | -15
+Developing Latin America and the Caribbean | -1 | -1 | 0 | 0 | -1 | 0 | 0 | -1
+Developing Africa and the Middle East | -1 | 0 | 0 | 0 | 0 | 0 | -1 | 0
+Other Offshore Centres | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Developing Asia and the Pacific | -1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Developing Europe | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Total | -508 | -312 | -76 | -29 | -139 | -75 | -292 | -208
+
+### 2019 long | file=InvestmentsStatisti_1615563453.pdf page=14 figure=9(a) | cols: Total, Equities, Master, ST, LT (each 2019, 2018) | years: 2019,2018
+United States | 1,567 | 1,611 | 337 | 375 | 107 | 129 | 169 | 179 | 954 | 928
+Cayman Islands | 952 | 1,189 | 63 | 81 | 874 | 1,082 | 0 | 0 | 15 | 25
+Japan | 106 | 87 | 37 | 43 | 0 | 1 | 27 | 23 | 42 | 20
+China | 81 | 58 | 60 | 42 | 0 | 0 | 1 | 2 | 20 | 15
+United Kingdom | 59 | 80 | 15 | 20 | 0 | 0 | 7 | 8 | 37 | 52
+France | 55 | 58 | 8 | 8 | 0 | 0 | 22 | 27 | 25 | 23
+Canada | 27 | 25 | 12 | 10 | 0 | 0 | 4 | 2 | 11 | 13
+Germany | 23 | 42 | 7 | 11 | 0 | 0 | 11 | 11 | 5 | 20
+Ireland | 21 | 32 | 10 | 11 | 8 | 16 | 0 | 1 | 3 | 4
+Curacao | 15 | 23 | 0 | 0 | 15 | 23 | 0 | 0 | 0 | 0
+Netherlands | 15 | 20 | 3 | 3 | 0 | 0 | 1 | 3 | 11 | 13
+Hong Kong | 15 | 20 | 12 | 15 | 0 | 0 | 0 | 0 | 3 | 5
+British Virgin Islands | 3 | 8 | 0 | 4 | 2 | 3 | 0 | 0 | 1 | 2
+Sweden | 3 | 8 | 1 | 3 | 0 | 0 | 0 | 0 | 2 | 6
+Denmark | 1 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 2
+Other Developed Countries | 146 | 110 | 17 | 20 | 9 | 9 | 23 | 20 | 97 | 61
+Developing Asia and the Pacific | 20 | 27 | 15 | 19 | 0 | 0 | 0 | 1 | 5 | 8
+Other Offshore Centres | 18 | 19 | 11 | 12 | 6 | 4 | 0 | 0 | 1 | 2
+Developing Latin America and the Caribbean | 19 | 21 | 9 | 8 | 1 | 0 | 0 | 1 | 9 | 12
+Developing Europe | 11 | 8 | 3 | 3 | 1 | 0 | 0 | 0 | 7 | 5
+Developing Africa and the Middle East | 10 | 9 | 3 | 4 | 0 | 0 | 0 | 0 | 7 | 5
+Total | 3,167 | 3,458 | 624 | 692 | 1,023 | 1,267 | 265 | 278 | 1,255 | 1,221
+
+### 2019 short | file=InvestmentsStatisti_1615563453.pdf page=16 figure=10(a) | cols: Total Short, Equities Short, ST Short, LT Short (each 2019, 2018) | years: 2019,2018
+Germany | -113 | -150 | -1 | -1 | -14 | -8 | -98 | -141
+United States | -75 | -138 | -19 | -15 | -50 | -91 | -6 | -32
+France | -69 | -58 | 0 | 0 | -7 | -8 | -62 | -50
+Other Developed Countries | -40 | -57 | -1 | -1 | -20 | -14 | -19 | -42
+United Kingdom | -22 | -31 | 0 | 0 | -8 | -12 | -14 | -19
+Canada | -7 | -55 | -1 | -50 | -2 | -3 | -4 | -2
+Japan | -3 | -6 | -1 | -3 | -1 | -1 | -1 | -2
+Netherlands | -2 | -2 | 0 | 0 | -1 | -1 | -1 | -1
+Cayman Islands | -1 | -1 | -1 | -1 | 0 | 0 | 0 | 0
+China | -1 | -4 | -1 | -4 | 0 | 0 | 0 | 0
+Denmark | -1 | 0 | 0 | 0 | -1 | 0 | 0 | 0
+Ireland | -1 | 0 | -1 | 0 | 0 | 0 | 0 | 0
+Sweden | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Hong Kong | 0 | -1 | 0 | -1 | 0 | 0 | 0 | 0
+Developing Latin America and the Caribbean | 0 | -1 | 0 | 0 | 0 | -1 | 0 | 0
+Developing Africa and the Middle East | -1 | -1 | 0 | 0 | -1 | 0 | 0 | -1
+Other Offshore Centres | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Developing Asia and the Pacific | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Developing Europe | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Total | -336 | -504 | -26 | -75 | -105 | -139 | -205 | -290
+
+### quotes (verbatim from the text layers)
+- 2015 p.10: "As part of the new categories of information collected by the revised FAR, CIMA requested a further breakdown of investments by jurisdiction of issuer in order to include this information in the International Monetary Fund Coordinated Portfolio Investment Survey (CPIS) and to enhance data collection so as to improve the Authority's supervisory framework. ... The results, which represented 71% of total net assets, excludes derivative assets and liabilities and other investments assets and liabilities. Countries outside the top 15, have been grouped by region as defined by the International Standard for country codes."
+- 2015 p.3: "With the implementation of a new Fund Annual Return (FAR) form in 2015, the following additional qualitative information was received: Leverage at 100% or more: 55% of Registered and Master Funds ..."; "During 2015, there were 8,935 submissions with a financial year-end within the calendar year representing 82% (2014: 89%) of all funds regulated in the Cayman Islands."
+- 2015 p.12: "A short, or short position, were most prevalent in long term debt securities issued in Germany and short term debt securities and equities issued in the United States."
+- 2016 p.10: "The data presented on portfolio investments is used to facilitate participation in the IMF Coordinated Porfolio Investment Survey (CPIS) and CIMA supervisory functions. ... a shift from long term securities to short debt securities in Germany and France. ... as did long term debt portfolio investments issued in Germany."
+- 2017 p.10: "The following data based on the jurisdiction of the issuer of securities held by the fund is collected to facilitate participation in the annual International Monetary Fund Coordinated Portfolio Investment Survey."; p.11: "As in the prior year, the majority of the short position securities were issued in Germany. There was a substantial decrease of US$47 billion or 41% in short securities issued in the United States ... an increase of US$8 billion or 41% issued by other developed countries including Spain and Italy."
+- 2018 p.13: "The data in Figure 9 (a) is based on the jurisdiction of the issuer of securities held by the fund and is collected to facilitate participation in the annual International Monetary Fund's Coordinated Portfolio Investment Survey."; p.15: "As in the prior year, the majority of the short position securities were issued in Germany. There was a substantial increase of US$70 billion or 51% in securities issued in the US ... an increase of US$34 billion or 58.62% in securities issued by other developed countries including Spain and Italy."
+- 2019 p.14: "On a bi-annual basis, CIMA reports the jurisdiction of the issuer of securities held by funds, insurance, and banks to the International Monetary Fund in the form of a Coordinated Portfolio Investment Survey."; p.16: "Short positions issued in Germany decreased by US$37 billion or 25% but Germany still accounted for the jurisdiction with most securities sold short. There was a decrease of US$48 billion or 87% of Canadian and US$62 billion or 45% of United States short securities held by Cayman funds in 2019. However, short securities issued in France grew by US$11 billion or 19%."
+
+### source anomalies noted (verbatim kept above)
+- 2018 short, Canada: equities short 2018 printed as -50 while the row total is -6 (the 2019 edition restates 2018 Canada total as -55 with equities -50). One of the two is a typo in the source; the German and French rows are unaffected.
+- 2016 long table header prints "ST Debt Securities" twice; the fifth column is LT Debt Securities by position and by the 2015 comparator column.
+- 2018 long: 2017 total printed 3,070 vs 3,061 in the 2017 edition.

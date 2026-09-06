@@ -1,0 +1,59 @@
+EDITION: 2020 Investments Digest
+SOURCE: https://e.infogram.com/1b3bc8ec-0371-4a51-8de5-7acf48b3d107?src=embed (window.infographicData; read via Chrome 2026-09-05)
+CREATED: 2021-11-19T15:56:20.000Z UPDATED: 2022-04-19T16:37:46.000Z
+
+### counts_8bc5e76d id=8bc5e76d-8e66-40ea-8049-41c69ab90d37 checksum=39487.00
+| 2020 | 2019
+Registered Funds | 7,972 | 7,612
+Master Funds | 2,988 | 2,886
+Administered Funds | 294 | 295
+Licensed Funds | 59 | 64
+| |
+Limited Investor Funds | 583 | N/A
+Private Funds | 12,695 | N/A
+
+### long id=a594c90b-7d2e-454b-ad54-06267e92c22b checksum=51297.00
+| Total Portfolio Assets (US$ Billions) | | Equities (US$ Billions) | | Master Funds (US$ Billions) | | ST Debt Securities (US$ Billions) | | LT Debt Securities (US$ Billions) |
+| 2020 | 2019 | 2020 | 2019 | 2020 | 2019 | 2020 | 2019 | 2020 | 2019
+United States | 2,121 | 1,567 | 671 | 337 | 185 | 107 | 163 | 169 | 1,102 | 954
+Cayman Islands | 1,423 | 952 | 77 | 63 | 1,311 | 874 | 2 | 0 | 33 | 15
+Japan | 254 | 106 | 173 | 37 | 2 | 0 | 31 | 27 | 48 | 42
+Other Developed Countries | 172 | 146 | 26 | 17 | 11 | 9 | 18 | 23 | 117 | 97
+China | 165 | 81 | 121 | 60 | 1 | 0 | 3 | 1 | 40 | 20
+United kingdom | 114 | 59 | 22 | 15 | 1 | 0 | 10 | 7 | 81 | 37
+France | 59 | 55 | 12 | 8 | 0 | 3 | 16 | 22 | 31 | 25
+Ireland | 45 | 21 | 15 | 10 | 19 | 8 | 0 | 0 | 11 | 3
+Germany | 37 | 23 | 8 | 7 | 0 | 0 | 18 | 11 | 11 | 5
+Other Offshore Centres | 34 | 18 | 14 | 11 | 13 | 6 | 1 | 0 | 6 | 1
+Canada | 32 | 27 | 17 | 12 | 0 | 0 | 5 | 4 | 10 | 11
+Curacao | 33 | 15 | 0 | 0 | 33 | 15 | 0 | 0 | 0 | 0
+Developing Latin America and the Caribbean | 31 | 19 | 13 | 9 | 2 | 1 | 1 | 0 | 15 | 9
+Hong Kong | 26 | 15 | 21 | 12 | 0 | 0 | 1 | 0 | 4 | 3
+Developing Asia and the Pacific | 21 | 20 | 16 | 15 | 0 | 0 | 0 | 0 | 5 | 5
+Netherlands | 20 | 15 | 6 | 3 | 0 | 0 | 2 | 1 | 12 | 11
+Developing Africa and the Middle East | 16 | 10 | 4 | 3 | 0 | 0 | 1 | 0 | 11 | 7
+Developing Europe | 12 | 11 | 3 | 3 | 0 | 1 | 0 | 0 | 9 | 7
+Total | 4,615 | 3,160 | 1,219 | 622 | 1,578 | 1,021 | 272 | 265 | 1,546 | 1,251
+
+### short id=d40dbfae-03ec-43be-b255-f3d221eb38a4 checksum=19292.00
+Short Positions | Total Portfolio Assets (US$ Billions) | | Equities (US$ Billions) | | ST Debt Securities (US$ Billions) | | LT Debt Securities (US$ Billions) |
+| 2020 | 2019 | 2020 | 2019 | 2020 | 2019 | 2020 | 2019
+United States | (137) | (75) | (44) | (19) | (83) | (5) | (10 | (6)
+Germany | (113) | (113) | 0 | (1) | (12) | (14) | (101) | (98)
+France | (91) | (69) | 0 | 0 | (25) | (7) | (66) | (62)
+Other Developed Countries | (52) | (41) | (4) | (2) | (23) | (20) | (25) | (19)
+United Kingdom | (35) | (22) | 0 | 0 | (28) | (8) | (7) | (14)
+Canada | (12) | (7) | (2) | (1) | (5) | (2) | (5) | (4)
+China | (6) | (1) | (6) | (1) | 0 | 0 | 0 | 0
+Japan | (6) | (3) | (1) | (1) | (1) | (1) | (4) | (1)
+Netherlands | (2) | (2) | 0 | 0 | (1) | (1) | (1) | (1)
+Developing Africa and the Middle East | (2) | (1) | 0 | 0 | (2) | (1) | 0 | 0
+Other Offshore Centres | (2) | 0 | (2) | 0 | 0 | 0 | 0 | 0
+Cayman Islands | (2) | (1) | (1) | (1) | (1) | 0 | 0 | 0
+Total | (460) | (335) | (61) | (26) | (181) | (105) | (218) | (205)
+
+### notes
+- "At year-end 2020, there were 24,591 funds registered with the Cayman Islands Monetary Authority (CIMA), including 583 Limited Investor Funds and 12,695 Private Funds. Total ending net asset value (NAV) increased to US$4.967 trillion from US$4.229 trillion in 2019 - excluding Limited Investor and Private Funds. At year-end 2020, total ending NAV for Limited Investor Funds submitting a FAR was US$107 billion and US$2.475 trillion for Private Funds."
+- "Legislation, such as the Private Funds Act (2021 Revision) (the "PFA") to regulate closed-ended private equity funds and the amendment to the Mutual Funds Act (2021 Revision) (the "MFA"), to regulate previously exempt MFA section (4) 4 funds, are the key strength of the Cayman Islands investment funds regime. ... The enactment of the PFA, in February 2020, also addressed the areas as identified by the EU when it included the Cayman Islands on its Annex 1 list of non-cooperative jurisdictions for tax purposes."
+- "In 2020 - 5,015 or 52% of the 9,621 funds filing a Fund Annual Return (FAR) reported the investment manager based in the United States up from 4,657 in 2019."
+- OBSERVATION (mine): the US short LT debt 2020 cell reads "(10" in the source (missing closing parenthesis) — value 10. 2019 column here (long total 3,160; short total 335; DE LT short 98) is the 2020 edition's prior-year column; the 2019 PDF edition should be compared.

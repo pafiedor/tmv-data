@@ -1,0 +1,13 @@
+date,total_eur_bn,bubills_eur_bn,zusatzemissionen_eur_bn,eigenbestand_total_eur_bn,eigenbestand_bubills_eur_bn,wsf_eur_bn,ex_bubills_eur_bn,ex_bubills_ex_own_holdings_eur_bn,source,note
+2014-12-31,1145.97,28.00,0.00,-49.30,-0.04,0.00,1117.97,1068.71,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),"Umlaufvolumen incl. Eigenbestand; Eigenbestand rows negative in source; ex_own = total - bubills + eigenbestand_total - eigenbestand_bubills"
+2015-12-31,1136.28,18.50,0.00,-48.77,0.07,0.00,1117.78,1068.94,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2016-12-31,1131.65,23.50,0.00,-52.41,0.00,0.00,1108.15,1055.74,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2017-12-31,1131.16,10.00,0.00,-58.45,0.00,0.00,1121.16,1062.71,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2018-12-31,1119.37,14.00,0.00,-61.48,-1.09,0.00,1105.37,1044.98,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2019-12-31,1130.61,15.00,0.00,-63.66,-1.56,0.00,1115.61,1053.51,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2020-12-31,1443.70,113.50,0.00,-182.98,-0.95,0.00,1330.20,1148.17,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2021-12-31,1589.90,154.50,0.00,-162.66,-1.52,0.00,1435.40,1274.26,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2022-12-31,1877.43,139.00,169.78,-202.26,-0.95,-169.78,1738.43,1537.12,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),"Zusatzemissionen 169.78 matched by WSF -169.78 (on-lending); both inside the total"
+2023-12-31,1841.75,149.00,0.00,-206.41,-9.16,0.00,1692.75,1495.50,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2024-12-31,1882.00,108.50,0.00,-201.72,-0.74,0.00,1773.50,1572.52,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),
+2025-12-31,1970.00,96.00,0.00,-196.61,-0.44,0.00,1874.00,1677.83,Finanzagentur schuldenbericht_dt.xlsx sheet rpgUmlaufvolumen (read 2026-09-05),"the web chart's 2025 bar omitted the 15/20-year series; XLSX total 1,970"
