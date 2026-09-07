@@ -22,7 +22,7 @@ investor-type split.
 |---|---|---|---|
 | Italy — MEF | **Yes** (auction-window chart, annual report) | Yes, per syndication | the template |
 | France — AFT | No | Yes, per syndication | negative |
-| Germany — Finanzagentur | not settled | Yes (uncaptioned pie in Transaction Reviews) | **unresolved**, query sent |
+| Germany — Finanzagentur | No | Yes (Transaction Review pies: allocation, per the agency) | negative, confirmed by the Finanzagentur |
 | Spain — Tesoro Público | not settled | Yes | **unresolved**, query sent |
 | Netherlands — DSTA | No | Yes, coarse (real money / other) | negative |
 | Belgium — Debt Agency | No | Yes | negative |
@@ -48,11 +48,13 @@ institutional reader would check first and weaker beyond that.
   (investor-base statistics are holdings).
 - **Germany — Finanzagentur.** Transaction Reviews for the syndicated Bund
   issues (order book as a scalar: "Final orderbook closed in excess of € 38
-  bn"; an investor-type pie chart with no caption in either language, read
-  as allocation by convention only); the creditor-structure table, which the
-  Finanzagentur describes as estimated from Bund Issues Auction Group members'
-  purchases and sales to end investors — a flow-derived stock. Query with the
-  Finanzagentur press office.
+  bn"; an investor-type pie chart with no caption in either language); the
+  creditor-structure table, which the Finanzagentur describes as estimated
+  from Bund Issues Auction Group members' purchases and sales to end
+  investors — a flow-derived stock. Asked which side the pie charts show, the
+  Finanzagentur's press office replied in September 2026 that they refer to
+  the allocation and not to the order book, and that the composition of an
+  order book is not published.
 - **Spain — Tesoro Público.** The Chart Pack served at the Tesoro's Chart Pack
   address on 4 September 2026 (file dated 9 December 2022; server
   Last-Modified 1 March 2023), whose investor slides are allocation and
