@@ -11,6 +11,10 @@ Data and code released alongside pieces on The Macro Prudential View
   extracted, the IMF Portfolio Investment Positions series for the Cayman
   reporter, the 2023–2024 reconciliation between the two, and the extraction
   code. See `cayman/README.md`.
+- `sponsor/` — *The Sponsor of Last Resort*: the Federal Reserve's MMLF
+  section 11(s) file with an own-family / other / unattributed classification
+  of every pledged security, the classification script, and the reconciliation
+  of every Form N-CR filed in the first half of 2020. See `sponsor/README.md`.
 
 Code is MIT-licensed, data and notes CC BY 4.0; each folder carries its own
 LICENSE.

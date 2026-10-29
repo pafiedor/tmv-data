@@ -1,0 +1,21 @@
+accession,form,filed,fund,part_c_nature,provider,support_date,amount_usd,notes
+0000759667-20-000004,N-CR,2020-03-19,Dreyfus Cash Management,Rule 17a-9 purchase,The Bank of New York Mellon,2020-03-18,1204850099.29,"FMV paid by bank; BNY Mellon Corp paid AC-FMV excess to fund; C.4 misprints year as 2010"
+0000759667-20-000006,N-CR/A,2020-03-24,Dreyfus Cash Management,(amendment of -000004),,2020-03-18,1204850099.29,"C.8 reason; not additive"
+0000759667-20-000005,N-CR,2020-03-20,Dreyfus Cash Management,Rule 17a-9 purchase,The Bank of New York Mellon,2020-03-19,948975515.03,"FMV; BNY Mellon Corp paid AC-FMV excess"
+0000759667-20-000007,N-CR/A,2020-03-25,Dreyfus Cash Management,(amendment of -000005),,2020-03-19,948975515.03,"not additive"
+0001193125-20-080786,N-CR,2020-03-20,GS Financial Square Prime Obligations Fund,Rule 17a-9 purchase,Goldman Sachs Bank USA,2020-03-19,301201274,"FMV; Part H cites ICI NAL 19 Mar 2020"
+0001193125-20-081672,N-CR,2020-03-23,GS Financial Square Prime Obligations Fund,Rule 17a-9 purchase,Goldman Sachs Bank USA,2020-03-20,89940240,"FMV"
+0001683863-20-000866,N-CR/A,2020-03-25,GS Financial Square Prime Obligations Fund,(consolidating amendment),,2020-03-19/20,391141514,"= 301201274 + 89940240; not additive"
+0001193125-20-080805,N-CR,2020-03-20,GS Financial Square Money Market Fund,Rule 17a-9 purchase,Goldman Sachs Bank USA,2020-03-19,722365313,"FMV"
+0001193125-20-081669,N-CR,2020-03-23,GS Financial Square Money Market Fund,Rule 17a-9 purchase,Goldman Sachs Bank USA,2020-03-20,729199880,"FMV"
+0001683863-20-000859,N-CR/A,2020-03-25,GS Financial Square Money Market Fund,(consolidating amendment),,2020-03-19/20,1451565193,"= 722365313 + 729199880; not additive"
+0000831363-20-000050,N-CR,2020-03-24,General New Jersey Municipal MMF,Capital contribution,BNY Mellon Investment Adviser Inc.,2020-03-23,89000,"to reduce NAV deviation"
+0000831363-20-000054,N-CR/A,2020-03-27,General New Jersey Municipal MMF,(amendment of -000050),,2020-03-23,89000,"C.8 reason stated; not additive"
+0000831363-20-000048,N-CR,2020-03-23,General New Jersey Municipal MMF,none (Part D only),,,,"NAV deviation 0.0030 on 2020-03-19"
+0000831363-20-000049,N-CR,2020-03-23,General New Jersey Municipal MMF,none (Part D only),,,,"NAV deviation 0.0032 on 2020-03-20"
+0000831363-20-000051,N-CR/A,2020-03-25,General New Jersey Municipal MMF,none (Part D only),,,,"amends -000048"
+0000831363-20-000053,N-CR/A,2020-03-26,General New Jersey Municipal MMF,none (Part D only),,,,"amends -000049"
+# population: all N-CR and N-CR/A in EDGAR form.idx 2020 QTR1 (16) and QTR2 (0)
+# unique 17a-9 purchases: 6 events, USD 3,996,532,321.32 (BNY 2,153,825,614.32; GS 1,842,706,707)
+# unique capital contributions: 1 event, USD 89,000 (BNY Mellon Investment Adviser)
+# sponsor groups reporting Part C support: 2 (BNY Mellon; Goldman Sachs)
